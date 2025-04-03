@@ -2,7 +2,7 @@
 
 > 更新：2025/04/04       
 
-本指南为您提供在国内如何便捷使用 [**ChatGPT 中文版**](https://chat.yixiaai.com) 的方法，并推荐多个**无需翻墙**的 [**ChatGPT镜像网站**](https://chat.lanjing.ai)。
+本指南为您提供在国内如何便捷使用 [**ChatGPT 中文版**](https://chat.yixiaai.com) 的方法，并推荐多个**无需翻墙**的 [**ChatGPT镜像网站**](https://chat.lanjing.pro)。
 
 通过这些精选平台，您可以在学习、工作和日常生活中充分利用 ChatGPT 的功能。
 
@@ -30,9 +30,9 @@
 - **[chat.yixiaai.com](https://chat.yixiaai.com/)**：这是一个稳定运营近两年的**ChatGPT中文版平台**，支持 GPT-4、4o 和 o1 模型，有 AI绘画功能。
 - **[chat.lify.vip](https://www.yixiaai.com/)**：该**ChatGPT镜像网站**集成了最新的 ChatGPT模型，包括 GPT-4o、4o mini 和 o1，提供广泛的功能如 AI 写作、编程助手、知识库和思维导图支持。
 - **[yixiaai.cn](https://yixiaai.cn/)**：一个 AI工具导航网站，它汇聚了多种工具，帮助用户掌握前沿技术知识。
-- **[guide1.lanjing.ai](https://guide1.lanjing.ai/)**：此平台提供 AI 绘画功能，支持 Midjourney 和 Dall·E，适合创意人士。
+- **[guide1.lanjing.pro](https://guide1.lanjing.pro/)**：此平台提供 AI 绘画功能，支持 Midjourney 和 Dall·E，适合创意人士。
 - **[ai.lansejingyu.com](https://ai.lansejingyu.com/)**：该站点操作简单，支持 GPT-4 和 4o，适合新手快速上手。
-- **[lanjing.ai](https://lanjing.ai/)**：提供免费使用体验，支持最新的 GPT-4 和 4o 模型。
+- **[lanjing.pro](https://lanjing.pro/)**：提供免费使用体验，支持最新的 GPT-4 和 4o 模型。
 
 这些镜像网站为用户提供了丰富的选择，可以根据个人需求选择适合的平台进行使用。
 
